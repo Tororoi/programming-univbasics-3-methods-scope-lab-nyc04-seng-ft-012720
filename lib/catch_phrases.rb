@@ -16,5 +16,3 @@ end
 def any_phrase(character)
   puts "#{character}"
 end
-
-puts any_phrase(mario)
