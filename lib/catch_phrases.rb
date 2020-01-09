@@ -13,6 +13,8 @@ def link
   puts phrase
 end
 
+puts link
+
 def any_phrase(character)
   puts "#{character}"
 end
